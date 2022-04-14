@@ -1,0 +1,10 @@
+{
+    "blogs":
+    [
+        {"name": "Kacdahi Amog", "age":96, "status": "married", "id":1},
+        {"name": "Kacdasdzhi Amog", "age":55, "status": "unmarried", "id":2},
+        {"name": "Kachcdi Amog", "age":50, "status": "married", "id":3},
+        {"name": "Kazchi Amog", "age":57, "status": "unmarried", "id":4},
+        {"name": "Kadir Amhman", "age":50, "status": "married", "id":5}
+    ]
+}
